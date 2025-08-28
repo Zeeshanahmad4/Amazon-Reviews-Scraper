@@ -18,13 +18,13 @@ A BitBash product for structured Amazon review data
 
 ---
 
-## 📖 Introduction  
+##  Introduction  
 **Amazon Reviews Scraper** lets you extract reviews (rating, title, body, author, verified status, helpful votes, review date, etc.) into structured CSV/JSON.  
 It’s designed for analytics, sentiment analysis, product research, and competitor benchmarking.  
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 1. [Overview](#overview)  
 2. [Header Section Image](#header-section-image)  
 3. [Features](#features)  
@@ -41,7 +41,7 @@ It’s designed for analytics, sentiment analysis, product research, and competi
 
 ---
 
-## 🔎 Overview  
+##  Overview  
 Amazon reviews drive trust and sales decisions. Yet, accessing and analyzing them at scale is hard due to pagination, dynamic content, and unstructured formats.  
 This scraper automates the process to deliver clean, analyzable review datasets.  
 
@@ -54,7 +54,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-## ⚡ Features  
+##  Features  
 
 | # | Feature                         | What It Does                                                                 | Why It Matters                                                                 |
 |---|---------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -69,7 +69,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-## ❓ Why This Matters (Problem Statement)  
+##  Why This Matters (Problem Statement)  
 - Amazon reviews influence **buyer trust** and **conversion rates**.  
 - Competitors and researchers need large volumes of reviews for **trend analysis** and **benchmarking**.  
 - Manual review gathering is inefficient.  
@@ -77,7 +77,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-## 🏗 Architecture  
+##  Architecture  
 <p align="center"><img src="architecture.png" alt="Amazon Reviews Scraper Architecture" width="900"></p>  
 
 **High-Level Flow**:  
@@ -89,7 +89,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-## 🔄 Workflow  
+##  Workflow  
 <p align="center"><img src="workflow.png" alt="Amazon Reviews Scraper Workflow" width="900"></p>  
 
 **Steps:**  
@@ -102,7 +102,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-## 🗺 Roadmap  
+##  Roadmap  
 - [ ] Add dashboard for managing scraping tasks  
 - [ ] Multi-language support (EN, ES, DE, FR)  
 - [ ] Cloud deploy templates (Docker + CI)  
@@ -111,7 +111,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-## 🐍 Python Code Example  
+##  Python Code Example  
 
 ```python
 from pathlib import Path
