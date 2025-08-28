@@ -90,7 +90,8 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 ---
 
 ##  Workflow  
-<p align="center"><img src="workflow.png" alt="Amazon Reviews Scraper Workflow" width="900"></p>  
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/158d1017-d77c-474d-817f-eb241845c8f4" />
+
 
 **Steps:**  
 1. Input ASIN or product URL.  
