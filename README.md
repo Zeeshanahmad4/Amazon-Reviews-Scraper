@@ -47,9 +47,9 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-## 🖼 Header Section Image  
+##  Header
 <p align="center">
-<img src="hero.png" alt="Amazon Reviews Scraper — Hero Image" width="900">
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/94aff0a0-ce3e-43de-a6a5-e202b70bd8de" />
 </p>
 
 ---
