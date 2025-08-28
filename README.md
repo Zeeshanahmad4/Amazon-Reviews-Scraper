@@ -78,8 +78,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 ---
 
 ##  Architecture  
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/94aff0a0-ce3e-43de-a6a5-e202b70bd8de" />
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4a702ae9-2580-450a-88cc-ae799a58f75c" />
 
 **High-Level Flow**:  
 1. Chrome automation opens product review pages.  
