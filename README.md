@@ -49,7 +49,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ##  Amazon Reviews Scraper  
 <p align="center">
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/94aff0a0-ce3e-43de-a6a5-e202b70bd8de" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/94aff0a0-ce3e-43de-a6a5-e202b70bd8de" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 ---
 
 ##  Architecture  
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4a702ae9-2580-450a-88cc-ae799a58f75c" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/4a702ae9-2580-450a-88cc-ae799a58f75c" />
 
 **High-Level Flow**:  
 1. Chrome automation opens product review pages.  
@@ -90,7 +90,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 ---
 
 ##  Workflow  
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/158d1017-d77c-474d-817f-eb241845c8f4" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/158d1017-d77c-474d-817f-eb241845c8f4" />
 
 
 **Steps:**  
