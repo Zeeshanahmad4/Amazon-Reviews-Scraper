@@ -47,7 +47,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-##  Header
+##  Amazon Reviews Scraper  
 <p align="center">
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/94aff0a0-ce3e-43de-a6a5-e202b70bd8de" />
 </p>
