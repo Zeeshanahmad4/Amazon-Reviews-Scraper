@@ -28,7 +28,7 @@ It’s designed for analytics, sentiment analysis, product research, and competi
 1. [Overview](#overview)  
 2. [Header Section Image](#header-section-image)  
 3. [Features](#features)  
-4. [Why This Matters (Problem Statement)](#why-this-matters-problem-statement)  
+4. [Why This Matters](#why-this-matters-problem-statement)  
 5. [Architecture](#architecture)  
 6. [Workflow](#workflow)  
 7. [Roadmap](#roadmap)  
@@ -69,7 +69,7 @@ This scraper automates the process to deliver clean, analyzable review datasets.
 
 ---
 
-##  Why This Matters (Problem Statement)  
+##  Why This Matters 
 - Amazon reviews influence **buyer trust** and **conversion rates**.  
 - Competitors and researchers need large volumes of reviews for **trend analysis** and **benchmarking**.  
 - Manual review gathering is inefficient.  
