@@ -184,4 +184,5 @@ Questions? Need a custom scraper or integrations?
  Telegram: https://t.me/devpilot1  <br>
 
 ---
-<p align="center"> <img width="1536" height="360" alt="Footer — Contact BitBash" src="https://github.com/user-attachments/assets/your-footer-image-id" /> </p> ```
+
+<img width="1536" height="270" alt="Image" src="https://github.com/user-attachments/assets/fae69c91-6792-41ee-a073-50f46ba38788" />
