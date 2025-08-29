@@ -179,9 +179,9 @@ MIT License © BitBash
 
 Questions? Need a custom scraper or integrations?
 
- Website: https://www.bitbash.dev/
- Discord: https://discord.gg/zX7frTbx
- Telegram: https://t.me/devpilot1
+ Website: https://www.bitbash.dev/ <br>
+ Discord: https://discord.gg/zX7frTbx  <br>
+ Telegram: https://t.me/devpilot1  <br>
 
 ---
 <p align="center"> <img width="1536" height="360" alt="Footer — Contact BitBash" src="https://github.com/user-attachments/assets/your-footer-image-id" /> </p> ```
