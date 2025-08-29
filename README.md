@@ -24,20 +24,20 @@ It’s designed for analytics, sentiment analysis, product research, and competi
 
 ---
 
-##  Table of Contents
-1. [Overview](#overview)  
-2. [Amazon review scraper](#Amazon-Reviews-Scraper )  
-3. [Features](#features)  
-4. [Why This Matters](#why-this-matters-problem-statement)  
-5. [Architecture](#architecture)  
-6. [Workflow](#workflow)  
-7. [Roadmap](#roadmap)  
-8. [Python Code Example](#python-code-example)  
-9. [FAQ](#faq)  
-10. [Maintainers & Contact](#maintainers--contact)  
-11. [License](#license)  
-12. [Contact Us](#contact-us)  
-13. [Footer Image](#footer-image)  
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Overview](#overview)
+3. [Amazon Reviews Scraper](#amazon-reviews-scraper-1)
+4. [Features](#features)
+5. [Why This Matters](#why-this-matters)
+6. [Architecture](#architecture)
+7. [Workflow](#workflow)
+8. [Roadmap](#roadmap)
+9. [Python Code Example](#python-code-example)
+10. [FAQ](#faq)
+11. [License](#license)
+12. [Contact Us](#contact-us)
+
 
 ---
 
