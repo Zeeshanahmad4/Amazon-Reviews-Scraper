@@ -145,3 +145,44 @@ with csv_path.open("w", newline="", encoding="utf-8") as f:
 json_path = Path("sample.json")
 json_path.write_text(json.dumps(rows, indent=2), encoding="utf-8")
 print("Wrote sample.csv and sample.json")
+
+```
+## FAQ
+
+Does this repo bypass CAPTCHAs or Amazon bot checks?
+No. This is a white-hat showcase and does not include anti-bot/CAPTCHA bypass.
+
+What formats are supported?
+CSV and JSON by default.
+
+Can I target different locales/regions?
+Yes — configure proxies/locale as needed.
+
+How scalable is it?
+Designed for pagination and batching; throughput depends on infra, proxies, and rate limits.
+
+Can I enrich the data further?
+Yes — plug in your own sentiment/keyword models; a simple enrichment path is documented.
+
+Maintainers & Contact
+
+---
+
+## License
+
+MIT License © BitBash
+
+---
+
+## Contact Us
+
+Questions? Need a custom scraper or integrations?
+
+ Website: https://www.bitbash.dev/
+
+ Discord: https://discord.gg/zX7frTbx
+
+ Telegram: https://t.me/devpilot1
+
+
+<p align="center"> <img width="1536" height="360" alt="Footer — Contact BitBash" src="https://github.com/user-attachments/assets/your-footer-image-id" /> </p> ```
