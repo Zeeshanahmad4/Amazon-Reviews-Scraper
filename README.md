@@ -151,19 +151,19 @@ print("Wrote sample.csv and sample.json")
 ---
 ## FAQ
 
-Q: Does this repo bypass CAPTCHAs or Amazon bot checks?
+Q: Does this repo bypass CAPTCHAs or Amazon bot checks? <br>
 A: No. This is a white-hat showcase and does not include anti-bot/CAPTCHA bypass.
 
-Q: What formats are supported?
+Q: What formats are supported?<br>
 A: CSV and JSON by default.
 
-Q: Can I target different locales/regions?
+Q: Can I target different locales/regions?<br>
 A: Yes — configure proxies/locale as needed.
 
-Q: How scalable is it?
+Q: How scalable is it?<br>
 A: Designed for pagination and batching; throughput depends on infra, proxies, and rate limits.
 
-Q: Can I enrich the data further?
+Q: Can I enrich the data further?<br>
 A: Yes — plug in your own sentiment/keyword models; a simple enrichment path is documented.
 
 
