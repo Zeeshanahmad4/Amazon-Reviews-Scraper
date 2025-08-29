@@ -26,7 +26,7 @@ It’s designed for analytics, sentiment analysis, product research, and competi
 
 ##  Table of Contents
 1. [Overview](#overview)  
-2. [Header Section Image](#header-section-image)  
+2. [Amazon review scraper](#Amazon-Reviews-Scraper )  
 3. [Features](#features)  
 4. [Why This Matters](#why-this-matters-problem-statement)  
 5. [Architecture](#architecture)  
