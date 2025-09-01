@@ -164,9 +164,6 @@ MIT License © BitBash
 Questions? Need a custom scraper or integrations?
 
 <p align="center">
-  <a href="https://www.bitbash.dev/">
-    <img alt="BitBash × Amazon Reviews Scraper" src="https://img.shields.io/badge/Built%20by-BitBash-000000.svg?style=for-the-badge">
-  </a>
   <a href="https://discord.gg/zX7frTbx">
     <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
