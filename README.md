@@ -1,21 +1,5 @@
 # 🛒 Amazon Reviews Scraper  
-
-<p align="center">
-A BitBash product for structured Amazon review data
-</p>
-
-<p align="center">
-  <a href="https://www.bitbash.dev/">
-    <img alt="BitBash × Amazon Reviews Scraper" src="https://img.shields.io/badge/Built%20by-BitBash-000000.svg?style=for-the-badge">
-  </a>
-  <a href="https://discord.gg/zX7frTbx">
-    <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img alt="Telegram contact" src="https://img.shields.io/badge/Telegram-@devpilot1-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge">
-  </a>
-</p>
-
+> A powerful tool to extract, structure, and analyze Amazon product reviews at scale for research, insights, and automation.
 ---
 
 ##  Introduction  
@@ -179,9 +163,17 @@ MIT License © BitBash
 
 Questions? Need a custom scraper or integrations?
 
- Website: https://www.bitbash.dev/ <br>
- Discord: https://discord.gg/zX7frTbx  <br>
- Telegram: https://t.me/devpilot1  <br>
+<p align="center">
+  <a href="https://www.bitbash.dev/">
+    <img alt="BitBash × Amazon Reviews Scraper" src="https://img.shields.io/badge/Built%20by-BitBash-000000.svg?style=for-the-badge">
+  </a>
+  <a href="https://discord.gg/zX7frTbx">
+    <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://t.me/devpilot1">
+    <img alt="Telegram contact" src="https://img.shields.io/badge/Telegram-@devpilot1-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge">
+  </a>
+</p>
 
 ---
 
