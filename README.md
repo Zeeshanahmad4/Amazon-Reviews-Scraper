@@ -3,7 +3,7 @@
 ---
 
 ##  Introduction  
-**Amazon Reviews Scraper** lets you extract reviews (rating, title, body, author, verified status, helpful votes, review date, etc.) into structured CSV/JSON.  
+**Amazon Reviews Scraper** lets you extract reviews (rating, title, body, author, verified status, helpful votes, review date) into structured CSV/JSON.  
 It’s designed for analytics, sentiment analysis, product research, and competitor benchmarking.  
 
 ---
