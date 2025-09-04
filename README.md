@@ -174,4 +174,4 @@ Questions? Need a custom scraper or integrations?
 
 ---
 
-<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/fae69c91-6792-41ee-a073-50f46ba38788" />
+<img width="1536" height="400" alt="Image" src="https://github.com/user-attachments/assets/fae69c91-6792-41ee-a073-50f46ba38788" />
