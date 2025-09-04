@@ -1,7 +1,10 @@
 # 🛒 Amazon Reviews Scraper  
 > A powerful tool to extract, structure, and analyze Amazon product reviews at scale for research, insights, and automation.
 ---
+## Try Free Now 
 
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/3bd95c5f-442d-4cdd-af98-ab5f99b71314" />
+---
 ##  Introduction  
 **Amazon Reviews Scraper** lets you extract reviews (rating, title, body, author, verified status, helpful votes, review date) into structured CSV/JSON.  
 It’s designed for analytics, sentiment analysis, product research, and competitor benchmarking.  
